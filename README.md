@@ -9,5 +9,5 @@ Main analysis approach after performing data cleaning was the text analysis to s
 The data was scrapped from Twitter via SNScraper in Python with the grocery store hastag. The tweets were bound to time from 01.01.2017 to 01.12.2017.
 
 ## Built with
-Python\
+Python/
 R Studio
